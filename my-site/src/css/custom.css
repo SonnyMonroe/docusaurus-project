@@ -51,6 +51,12 @@ img {
 
 .navbar__logo {
     width: 75px;
-    height: 50px;
+    height: 70px;
     padding-right: 10px;
+}
+
+.navbar {
+    height: 100px;
+    font-size: larger;
+    font-style: italic;
 }
