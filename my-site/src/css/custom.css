@@ -40,3 +40,17 @@
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+img {
+    width: 250px;
+    height: 250px;
+    border-color: #4e89e8;
+    border-style: double;
+    border-radius: 15px;
+}
+
+.navbar__logo {
+    width: 75px;
+    height: 50px;
+    padding-right: 10px;
+}
